@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# result folder
+/out 1
+/out 2
+/out 3
